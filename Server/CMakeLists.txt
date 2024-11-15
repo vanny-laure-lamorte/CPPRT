@@ -14,10 +14,10 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Network)
 
 add_executable(Server
   main.cpp
-  Serveur.h
-  Serveur.cpp
-  src/server.cpp
+  header/Server.h
+  src/Server.cpp
 )
+
 target_link_libraries(Server Qt${QT_VERSION_MAJOR}::Core Qt${QT_VERSION_MAJOR}::Network)
 
 include(GNUInstallDirs)

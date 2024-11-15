@@ -12,13 +12,15 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Core Network)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Core Network)
 
+set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_SOURCE_DIR}/src)
+
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
-        Client.cpp
-        Client.h
+        header/Client.h
+        header/ClientUi.h
+        src/clientUi.ui
+        src/ClientUi.cpp
+        src/Client.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

@@ -1,0 +1,16 @@
+# ninja log v6
+8	1226	7533676418542242	Client_autogen/timestamp	763e400045a5345c
+8	1226	7533676418542242	Client_autogen/mocs_compilation.cpp	763e400045a5345c
+1241	3619	7533676419902606	CMakeFiles/Client.dir/main.cpp.obj	8f914a8e930b2ff0
+8	1226	7533676418542242	C:/Qt/projet/CPPRT/Client/build/Desktop_Qt_6_7_1_llvm_mingw_64_bit-Debug/Client_autogen/timestamp	763e400045a5345c
+8	1226	7533676418542242	C:/Qt/projet/CPPRT/Client/build/Desktop_Qt_6_7_1_llvm_mingw_64_bit-Debug/Client_autogen/mocs_compilation.cpp	763e400045a5345c
+1250	3242	7533676419992605	CMakeFiles/Client.dir/src/Client.cpp.obj	effa912e02b905cc
+3748	3875	7533676444969411	Client.exe	ceb3ff19d1aef862
+1246	3658	7533676419952616	CMakeFiles/Client.dir/src/ClientUi.cpp.obj	31d1ec3bae572006
+1236	3747	7533676419852607	CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.obj	3b29afa86a395414
+83	393	7533715894310719	Client_autogen/timestamp	763e400045a5345c
+83	393	7533715894310719	Client_autogen/mocs_compilation.cpp	763e400045a5345c
+83	393	7533715894310719	C:/Qt/projet/CPPRT/Client/build/Desktop_Qt_6_7_1_llvm_mingw_64_bit-Debug/Client_autogen/timestamp	763e400045a5345c
+83	393	7533715894310719	C:/Qt/projet/CPPRT/Client/build/Desktop_Qt_6_7_1_llvm_mingw_64_bit-Debug/Client_autogen/mocs_compilation.cpp	763e400045a5345c
+395	2664	7533715897518393	CMakeFiles/Client.dir/src/Client.cpp.obj	effa912e02b905cc
+2664	2958	7533715920206373	Client.exe	ceb3ff19d1aef862
